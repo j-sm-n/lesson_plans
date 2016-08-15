@@ -34,5 +34,5 @@ Before this lesson, students should already have completed [WebGuesser](http://t
 ## Other Resources
 
 * [WebGuesser Tutorial](http://tutorials.jumpstartlab.com/projects/web_guesser.html)
-* [Rails Girls Intro to Sinatra Tutorial](http://guides.railsgirls.com/sinatra-app/)
+* [Rails Girls Intro to Sinatra Tutorial](http://guides.railsgirls.com/sinatra-app)
 * [Sinatra Documentation](http://www.sinatrarb.com/intro.html)
